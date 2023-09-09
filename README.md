@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on android development
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on android
+- 🤔 I’m looking for help with android dev
+- 💬 Ask me about android stuff
+- 📫 How to reach me? mention me
 <!--
 **ino6962/ino6962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
